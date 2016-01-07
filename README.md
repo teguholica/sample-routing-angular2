@@ -1,5 +1,5 @@
 # Sample Routing Angular2
-This is sample for using routing module in angular2.
+This is sample for using routing library in angular2.
 
 ## Angular2 version
 ```
